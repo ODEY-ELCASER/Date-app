@@ -16,9 +16,6 @@ public class xxl {
 			case '+':
 				result = first + second;
 				break;
-			case '-':
-				result = first - second;
-				break;
 			case '*':
 				result = first * second;
 				break;

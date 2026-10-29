@@ -24,7 +24,7 @@ public class skdl {
 					System.out.println("That date was " + Math.abs(days) + " day(s) ago.");
 				}
 			} catch (DateTimeParseException e) {
-				System.out.println("Invalid date. Please use YYYY-MM-DD.");
+				System.out.println("Invalid date. Please use YYYY-MM-DD.");// odey elcaser bir tane
 			}
 		}
 	}
